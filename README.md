@@ -12,4 +12,4 @@ Idle game site is http://almostidle.com
 
 <h2>Improvements</h2>
 
-<p><tabber>Idle Balls Power=This game is like Idle Balls from mobile. It's different, but the game has clones, strength boosts to help, and an prestige feature! This game is <strong>incremental, idle and clicker</strong>, but the game is fun and created by code!</p></tabber>
+<p>Idle Balls Power=This game is like Idle Balls from mobile. It's different, but the game has clones, strength boosts to help, and an prestige feature! This game is <strong>incremental, idle and clicker</strong>, but the game is fun and created by code!</p>
